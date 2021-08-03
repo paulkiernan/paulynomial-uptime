@@ -22,64 +22,70 @@
     "url": "https://gibson.paulynomial.com",
     "icon": "https://favicons.githubusercontent.com/gibson.paulynomial.com",
     "slug": "hack-the-gibson",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 186,
     "timeDay": 246,
     "timeWeek": 171,
     "timeMonth": 186,
     "timeYear": 186,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 3
+    }
   },
   {
     "name": "Taqueria Bonjour",
     "url": "https://bonjour.paulynomial.com",
     "icon": "https://favicons.githubusercontent.com/bonjour.paulynomial.com",
     "slug": "taqueria-bonjour",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 171,
     "timeDay": 260,
     "timeWeek": 169,
     "timeMonth": 171,
     "timeYear": 171,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 3
+    }
   },
   {
     "name": "Paulynomial (index) (www-redirect)",
     "url": "https://www.paulynomial.com",
     "icon": "https://favicons.githubusercontent.com/www.paulynomial.com",
     "slug": "paulynomial-index-www-redirect",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 186,
     "timeDay": 183,
     "timeWeek": 184,
     "timeMonth": 186,
     "timeYear": 186,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 2
+    }
   },
   {
     "name": "Paulynomial (index) (paulinomial-redirect)",
     "url": "https://paulinomial.com",
     "icon": "https://favicons.githubusercontent.com/paulinomial.com",
     "slug": "paulynomial-index-paulinomial-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 272,
@@ -87,17 +93,19 @@
     "timeWeek": 257,
     "timeMonth": 272,
     "timeYear": 272,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 2
+    }
   },
   {
     "name": "Paulynomial (index) (www-paulinomial-redirect)",
     "url": "https://www.paulinomial.com",
     "icon": "https://favicons.githubusercontent.com/www.paulinomial.com",
     "slug": "paulynomial-index-www-paulinomial-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
@@ -105,17 +113,19 @@
     "timeWeek": 208,
     "timeMonth": 207,
     "timeYear": 207,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 1
+    }
   },
   {
     "name": "Paulynomial (index) (paul-kiernan-redirect)",
     "url": "https://paul-kiernan.com",
     "icon": "https://favicons.githubusercontent.com/paul-kiernan.com",
     "slug": "paulynomial-index-paul-kiernan-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
@@ -123,16 +133,18 @@
     "timeWeek": 226,
     "timeMonth": 216,
     "timeYear": 216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 1
+    }
   },
   {
     "name": "Paulynomial (index) (www-paul-kiernan-redirect)",
     "url": "https://www.paul-kiernan.com",
     "icon": "https://favicons.githubusercontent.com/www.paul-kiernan.com",
     "slug": "paulynomial-index-www-paul-kiernan-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,6 +153,8 @@
     "timeWeek": 226,
     "timeMonth": 215,
     "timeYear": 215,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 0
+    }
   }
 ]
