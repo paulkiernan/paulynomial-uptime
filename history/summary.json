@@ -4,11 +4,11 @@
     "url": "https://paulynomial.com",
     "icon": "https://favicons.githubusercontent.com/paulynomial.com",
     "slug": "paulynomial-index",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.71%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "98.70%",
     "uptimeYear": "99.53%",
     "time": 231,
     "timeDay": 436,
@@ -16,6 +16,7 @@
     "timeMonth": 305,
     "timeYear": 231,
     "dailyMinutesDown": {
+      "2021-10-02": 2,
       "2021-09-17": 566
     }
   },
@@ -24,11 +25,11 @@
     "url": "https://gibson.paulynomial.com",
     "icon": "https://favicons.githubusercontent.com/gibson.paulynomial.com",
     "slug": "hack-the-gibson",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.94%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "97.93%",
     "uptimeYear": "99.24%",
     "time": 260,
     "timeDay": 455,
@@ -36,6 +37,7 @@
     "timeMonth": 393,
     "timeYear": 260,
     "dailyMinutesDown": {
+      "2021-10-02": 1,
       "2021-09-17": 904,
       "2021-08-03": 15
     }
