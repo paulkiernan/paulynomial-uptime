@@ -1,7 +1,7 @@
 url: https://gibson.paulynomial.com
-status: up
-code: 200
-responseTime: 394
-lastUpdated: 2022-03-24T19:51:41.934Z
+status: down
+code: 502
+responseTime: 15393
+lastUpdated: 2022-03-24T20:00:48.556Z
 startTime: Sat Jul 10 2021 06:08:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
