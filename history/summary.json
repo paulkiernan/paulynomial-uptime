@@ -168,18 +168,18 @@
     "icon": "https://favicons.githubusercontent.com/bonjour.paulynomial.com",
     "slug": "taqueria-bonjour-backend",
     "status": "down",
-    "uptime": "7.53%",
-    "uptimeDay": "7.53%",
-    "uptimeWeek": "7.53%",
-    "uptimeMonth": "7.53%",
-    "uptimeYear": "7.53%",
+    "uptime": "1.48%",
+    "uptimeDay": "1.48%",
+    "uptimeWeek": "1.48%",
+    "uptimeMonth": "1.48%",
+    "uptimeYear": "1.48%",
     "time": 81,
     "timeDay": 81,
     "timeWeek": 81,
     "timeMonth": 81,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2022-04-24": 0
+      "2022-04-24": 1
     }
   },
   {
