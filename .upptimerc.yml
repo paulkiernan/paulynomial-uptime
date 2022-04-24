@@ -6,8 +6,10 @@ sites:
     url: https://paulynomial.com
   - name: Hack the Gibson
     url: https://gibson.paulynomial.com
-  - name: Taqueria Bonjour
+  - name: Taqueria Bonjour (frontend)
     url: https://bonjour.paulynomial.com
+  - name: Taqueria Bonjour (backend)
+    url: https://bonjour.paulynomial.com/api/team
   - name: Paulynomial (index) (www-redirect)
     url: https://www.paulynomial.com
   - name: Paulynomial (index) (paulinomial-redirect)
