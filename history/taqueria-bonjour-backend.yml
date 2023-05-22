@@ -1,7 +1,7 @@
 url: https://bonjour.paulynomial.com/api/team
 status: down
-code: 404
-responseTime: 51
-lastUpdated: 2023-05-21T23:03:35.616Z
+code: 503
+responseTime: 99
+lastUpdated: 2023-05-22T23:03:32.127Z
 startTime: Sun Apr 24 2022 07:20:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
