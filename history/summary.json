@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/paulynomial.com.ico",
     "slug": "paulynomial-index",
     "status": "up",
-    "uptime": "91.36%",
+    "uptime": "91.37%",
     "uptimeDay": "98.29%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.13%",
     "time": 559,
-    "timeDay": 5191,
-    "timeWeek": 2490,
+    "timeDay": 5207,
+    "timeWeek": 2485,
     "timeMonth": 887,
-    "timeYear": 660,
+    "timeYear": 659,
     "dailyMinutesDown": {
       "2024-01-12": 25,
       "2023-09-01": 20,
@@ -46,8 +46,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.14%",
     "time": 517,
-    "timeDay": 3230,
-    "timeWeek": 1586,
+    "timeDay": 3226,
+    "timeWeek": 1581,
     "timeMonth": 640,
     "timeYear": 598,
     "dailyMinutesDown": {
@@ -81,8 +81,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.14%",
     "time": 515,
-    "timeDay": 3209,
-    "timeWeek": 1573,
+    "timeDay": 3220,
+    "timeWeek": 1570,
     "timeMonth": 631,
     "timeYear": 605,
     "dailyMinutesDown": {
@@ -116,12 +116,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 286,
-    "timeDay": 100,
-    "timeWeek": 79,
-    "timeMonth": 96,
+    "timeDay": 115,
+    "timeWeek": 80,
+    "timeMonth": 93,
     "timeYear": 359,
     "dailyMinutesDown": {
-      "2024-01-12": 1267,
+      "2024-01-13": 14,
+      "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -484,8 +485,7 @@
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
-      "2023-01-14": 1440,
-      "2023-01-13": 1440
+      "2023-01-14": 1440
     }
   },
   {
@@ -499,10 +499,10 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.14%",
-    "time": 450,
-    "timeDay": 259,
-    "timeWeek": 214,
-    "timeMonth": 245,
+    "time": 451,
+    "timeDay": 236,
+    "timeWeek": 223,
+    "timeMonth": 247,
     "timeYear": 512,
     "dailyMinutesDown": {
       "2024-01-12": 18,
@@ -534,13 +534,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 430,
-    "timeDay": 329,
-    "timeWeek": 226,
-    "timeMonth": 247,
+    "time": 431,
+    "timeDay": 378,
+    "timeWeek": 230,
+    "timeMonth": 249,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2024-01-12": 1267,
+      "2024-01-13": 14,
+      "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -903,8 +904,7 @@
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
-      "2023-01-14": 1440,
-      "2023-01-13": 1440
+      "2023-01-14": 1440
     }
   },
   {
@@ -913,18 +913,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.paulinomial.com.ico",
     "slug": "paulynomial-index-www-paulinomial-redirect",
     "status": "down",
-    "uptime": "17.26%",
+    "uptime": "17.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 409,
-    "timeDay": 327,
-    "timeWeek": 180,
-    "timeMonth": 232,
+    "timeDay": 329,
+    "timeWeek": 199,
+    "timeMonth": 233,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2024-01-12": 1268,
+      "2024-01-13": 14,
+      "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -1287,8 +1288,7 @@
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
-      "2023-01-14": 1440,
-      "2023-01-13": 1440
+      "2023-01-14": 1440
     }
   },
   {
@@ -1302,13 +1302,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 396,
-    "timeDay": 319,
-    "timeWeek": 202,
-    "timeMonth": 235,
+    "time": 397,
+    "timeDay": 375,
+    "timeWeek": 217,
+    "timeMonth": 237,
     "timeYear": 429,
     "dailyMinutesDown": {
-      "2024-01-12": 1268,
+      "2024-01-13": 14,
+      "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -1671,8 +1672,7 @@
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
-      "2023-01-14": 1440,
-      "2023-01-13": 1440
+      "2023-01-14": 1440
     }
   },
   {
@@ -1686,13 +1686,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 420,
-    "timeDay": 396,
-    "timeWeek": 217,
-    "timeMonth": 238,
+    "time": 421,
+    "timeDay": 363,
+    "timeWeek": 222,
+    "timeMonth": 240,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2024-01-12": 1268,
+      "2024-01-13": 14,
+      "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -2055,8 +2056,7 @@
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
-      "2023-01-14": 1440,
-      "2023-01-13": 1440
+      "2023-01-14": 1440
     }
   }
 ]
