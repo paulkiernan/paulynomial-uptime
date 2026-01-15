@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/paulynomial.com.ico",
     "slug": "paulynomial-index",
     "status": "up",
-    "uptime": "52.39%",
+    "uptime": "52.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.56%",
-    "uptimeMonth": "17.78%",
-    "uptimeYear": "1.64%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "21.07%",
+    "uptimeYear": "1.91%",
     "time": 141,
-    "timeDay": 378,
-    "timeWeek": 237,
-    "timeMonth": 146,
+    "timeDay": 190,
+    "timeWeek": 231,
+    "timeMonth": 149,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2026-01-08": 39,
@@ -373,8 +373,7 @@
       "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
-      "2025-01-16": 1440,
-      "2025-01-15": 1440
+      "2025-01-16": 1440
     }
   },
   {
@@ -383,18 +382,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gibson.paulynomial.com.ico",
     "slug": "hack-the-gibson",
     "status": "down",
-    "uptime": "52.02%",
+    "uptime": "51.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 135,
-    "timeDay": 349,
-    "timeWeek": 240,
-    "timeMonth": 147,
+    "timeDay": 97,
+    "timeWeek": 206,
+    "timeMonth": 146,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2026-01-14": 24,
+      "2026-01-15": 22,
+      "2026-01-14": 1440,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
@@ -757,8 +757,7 @@
       "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
-      "2025-01-16": 1440,
-      "2025-01-15": 1440
+      "2025-01-16": 1440
     }
   },
   {
@@ -767,15 +766,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bonjour.paulynomial.com.ico",
     "slug": "taqueria-bonjour-frontend",
     "status": "up",
-    "uptime": "45.62%",
+    "uptime": "45.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.27%",
-    "uptimeMonth": "17.71%",
-    "uptimeYear": "1.64%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "21.00%",
+    "uptimeYear": "1.91%",
     "time": 138,
-    "timeDay": 371,
-    "timeWeek": 213,
-    "timeMonth": 140,
+    "timeDay": 101,
+    "timeWeek": 199,
+    "timeMonth": 139,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2026-01-08": 69,
@@ -1135,8 +1134,7 @@
       "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
-      "2025-01-16": 1440,
-      "2025-01-15": 1440
+      "2025-01-16": 1440
     }
   },
   {
@@ -1151,12 +1149,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 17,
-    "timeDay": 226,
-    "timeWeek": 81,
-    "timeMonth": 24,
+    "timeDay": 33,
+    "timeWeek": 74,
+    "timeMonth": 25,
     "timeYear": 18,
     "dailyMinutesDown": {
-      "2026-01-14": 24,
+      "2026-01-15": 22,
+      "2026-01-14": 1440,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
@@ -1519,8 +1518,7 @@
       "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
-      "2025-01-16": 1440,
-      "2025-01-15": 1440
+      "2025-01-16": 1440
     }
   },
   {
@@ -1529,15 +1527,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.paulynomial.com.ico",
     "slug": "paulynomial-index-www-redirect",
     "status": "up",
-    "uptime": "52.38%",
+    "uptime": "52.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.27%",
-    "uptimeMonth": "17.71%",
-    "uptimeYear": "1.64%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "21.00%",
+    "uptimeYear": "1.91%",
     "time": 140,
-    "timeDay": 334,
-    "timeWeek": 254,
-    "timeMonth": 141,
+    "timeDay": 101,
+    "timeWeek": 235,
+    "timeMonth": 140,
     "timeYear": 152,
     "dailyMinutesDown": {
       "2026-01-08": 69,
@@ -1897,8 +1895,7 @@
       "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
-      "2025-01-16": 1440,
-      "2025-01-15": 1440
+      "2025-01-16": 1440
     }
   },
   {
@@ -1913,12 +1910,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 137,
-    "timeDay": 95,
-    "timeWeek": 107,
-    "timeMonth": 119,
+    "timeDay": 64,
+    "timeWeek": 95,
+    "timeMonth": 118,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2026-01-14": 24,
+      "2026-01-15": 22,
+      "2026-01-14": 1440,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
@@ -2281,8 +2279,7 @@
       "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
-      "2025-01-16": 1440,
-      "2025-01-15": 1440
+      "2025-01-16": 1440
     }
   },
   {
@@ -2297,12 +2294,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 129,
-    "timeDay": 129,
-    "timeWeek": 107,
-    "timeMonth": 108,
+    "timeDay": 66,
+    "timeWeek": 98,
+    "timeMonth": 105,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2026-01-14": 24,
+      "2026-01-15": 22,
+      "2026-01-14": 1440,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
@@ -2665,8 +2663,7 @@
       "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
-      "2025-01-16": 1440,
-      "2025-01-15": 1440
+      "2025-01-16": 1440
     }
   },
   {
@@ -2681,12 +2678,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 151,
-    "timeDay": 184,
-    "timeWeek": 115,
-    "timeMonth": 113,
+    "timeDay": 113,
+    "timeWeek": 111,
+    "timeMonth": 115,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2026-01-14": 24,
+      "2026-01-15": 22,
+      "2026-01-14": 1440,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
@@ -3049,8 +3047,7 @@
       "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
-      "2025-01-16": 1440,
-      "2025-01-15": 1440
+      "2025-01-16": 1440
     }
   },
   {
@@ -3059,18 +3056,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.paul-kiernan.com.ico",
     "slug": "paulynomial-index-www-paul-kiernan-redirect",
     "status": "down",
-    "uptime": "9.61%",
+    "uptime": "9.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 129,
-    "timeDay": 160,
-    "timeWeek": 130,
-    "timeMonth": 120,
+    "timeDay": 68,
+    "timeWeek": 120,
+    "timeMonth": 119,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2026-01-14": 24,
+      "2026-01-15": 22,
+      "2026-01-14": 1440,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
@@ -3433,8 +3431,7 @@
       "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
-      "2025-01-16": 1440,
-      "2025-01-15": 1440
+      "2025-01-16": 1440
     }
   }
 ]
